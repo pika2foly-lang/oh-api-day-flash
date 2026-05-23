@@ -1,0 +1,14 @@
+{
+  "name": "oh-api-day-flash",
+  "version": "1.0.0",
+  "description": "Proxy multi-providers pour Oh API Day (Groq, OpenAI, Anthropic, NVIDIA, custom)",
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-functions": "^4.9.0",
+    "node-fetch": "^3.3.2"
+  },
+  "private": true
+}
